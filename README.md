@@ -1,4 +1,4 @@
-# sum-and-product-of-two-numbers
+# sum-and-product-of-two-numbers-using-python
 num1=5
 num2=6
 sum=num1+num2
